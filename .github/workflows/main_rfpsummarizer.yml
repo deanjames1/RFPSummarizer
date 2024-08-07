@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'RFPSummarizer'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_97BD6674D63440FE9DFAA1CD722E568A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_48437BBB8984439A911D26E15BBB90F3 }}
